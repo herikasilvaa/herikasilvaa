@@ -5,7 +5,6 @@
 <ul>
   <li>2005</li>
   <li>Studying Systems Development</li>
-  <li></li>
   <li>"You are so fucking special"</li>
   <li>Brazil</li>
 </ul>
