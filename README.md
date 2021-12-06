@@ -20,12 +20,14 @@
 <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
 
+<br>
+
 <div>
 <a href="https://github.com/herikasilvaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herikasilvaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+<br>
 
 
 ### Social Medias
