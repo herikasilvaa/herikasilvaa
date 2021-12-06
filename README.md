@@ -23,5 +23,5 @@
 <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+<p>https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green</p>
  
