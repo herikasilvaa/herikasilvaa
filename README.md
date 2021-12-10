@@ -25,7 +25,7 @@
 <div>
 <a href="https://github.com/herikasilvaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herikasilvaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=herikasilvaa&repo=github-readme-stats)](https://github.com/herikasilvaa/github-readme-stats)
+ 
 </div>
 
 <br>
